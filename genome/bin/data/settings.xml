@@ -1,0 +1,37 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>WIDTH</Name>
+    <Value>16.068965912</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>HEIGHT</Name>
+    <Value>6.615763664</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>THRESHOLD</Name>
+    <HighValue>167.068969727</HighValue>
+    <LowValue>255.000000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>ANGLE</Name>
+    <Value>4.285714626</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>SHOW COLOR</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>BLOB SIZE</Name>
+    <HighValue>102400.000000000</HighValue>
+    <LowValue>20.000000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>NUM BLOBS</Name>
+    <Value>10.266010284</Value>
+</Widget>

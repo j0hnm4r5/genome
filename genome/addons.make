@@ -1,0 +1,5 @@
+ofxKinect
+ofxOpenCv
+ofxOsc
+ofxSecondWindow
+ofxUI
